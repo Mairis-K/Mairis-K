@@ -1,7 +1,12 @@
 ### Hi there 👋
+
+###
 🔭 I’m currently working on Blog projec with React.
+
 🌱 I’m currently learning more about react and vue.
+
  📫 How to reach me:  Linkedin = https://www.linkedin.com/in/mairis-krumkalns/
+ 
 <!--
 **Mairis-K/Mairis-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
