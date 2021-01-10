@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ###
-🔭 I’m currently working on Blog projec with React.
+🔭 I’m currently working on Blog project with React.
 
 🌱 I’m currently learning more about react and vue.
 
